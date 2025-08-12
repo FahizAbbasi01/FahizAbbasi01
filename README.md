@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FahizAbbasi01/FahizAbbasi01/main/assets/github-header.png" alt="Header Image" />
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1350&q=80" alt="ML and Data Science Header Image" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Fahiz Ahmed Abbasi</h1>
@@ -12,7 +12,7 @@
 
 ## 📝 About Me  
 - 🔭 **Currently working on:** AI/ML-powered cross-platform applications  
-- 🌱 **Learning:** Deep Learning, Natural Language Processing, and Cloud DevOps  
+- 🌱 **Learning:** Deep Learning  
 - 💬 **Ask me about:**  
   - **Python** → Data science, ML pipelines, automation scripts  
   - **C++** → High-performance algorithms & problem solving  
@@ -36,7 +36,6 @@
 
 ### **Machine Learning 🤖**
 - Supervised & unsupervised learning  
-- NLP (text preprocessing, LLM fine-tuning)  
 - Model deployment with Flask, FastAPI, and containerization tools  
 
 ### **MySQL 🗄**
