@@ -11,10 +11,38 @@
 ---
 
 ## 📝 About Me  
-- 🔭 **Currently working on:** Cross-platform apps powered by AI/ML models  
-- 🌱 **Learning:** Advanced AI/ML techniques (LLMs) & Cloud DevOps tools  
-- 💬 **Ask me about:** Flutter, Dart, AI/ML, Python, SQL, Docker, Blender  
+- 🔭 **Currently working on:** AI/ML-powered cross-platform applications  
+- 🌱 **Learning:** Deep Learning, Natural Language Processing, and Cloud DevOps  
+- 💬 **Ask me about:**  
+  - **Python** → Data science, ML pipelines, automation scripts  
+  - **C++** → High-performance algorithms & problem solving  
+  - **Machine Learning** → Model building, training, deployment  
+  - **MySQL** → Efficient database design & queries  
 - ⚡ **Fun fact:** I believe great software feels like magic ✨  
+
+---
+
+## 💡 Tech Focus Areas  
+
+### **Python 🐍**
+- Data analysis & visualization (Pandas, Matplotlib, Seaborn)  
+- AI/ML frameworks (TensorFlow, PyTorch, Scikit-learn)  
+- Automation scripts & backend development (FastAPI, Flask)  
+
+### **C++ ⚡**
+- Competitive programming & problem-solving  
+- Memory-efficient algorithms  
+- Game engine and simulation basics  
+
+### **Machine Learning 🤖**
+- Supervised & unsupervised learning  
+- NLP (text preprocessing, LLM fine-tuning)  
+- Model deployment with Flask, FastAPI, and containerization tools  
+
+### **MySQL 🗄**
+- Database schema design & optimization  
+- Writing efficient SQL queries  
+- Integrating databases with Python applications  
 
 ---
 
@@ -48,4 +76,4 @@
 
 ---
 
-⭐ *If you like my w*
+⭐ *If you like my work, consider giving my repositories a star!* ⭐
